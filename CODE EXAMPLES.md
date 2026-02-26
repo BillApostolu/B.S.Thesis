@@ -1,4 +1,5 @@
 # Examples of code used for the analysis of my thesis
+#### Google Earth Engine account needed to view the maps 
 ### LST: https://code.earthengine.google.com/b451aab6589ee5dac576c28696fc3f04
 ### NDVI: https://code.earthengine.google.com/576c5f58d4778e492ed01d57dc79d60d
 ### POPULATION: https://code.earthengine.google.com/df4b13eba8fc4b882952f20efa22b70a
